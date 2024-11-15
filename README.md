@@ -1,7 +1,6 @@
 ## Hi there 👋
-# 👋 Bienvenido a mi Repositorio
 
-¡Hola! Soy Elkin Joao López Garcés 😊, un apasionado de la tecnología, la programación y el aprendizaje continuo. Actualmente, estoy desarrollando habilidades en tecnologías como Java, HTML, CSS, y más 📚, y estoy comprometido en mejorar cada día para alcanzar mis metas profesionales 🚀.
+Soy Elkin Joao López Garcés 😊, un apasionado de la tecnología, la programación y el aprendizaje continuo. Actualmente, estoy desarrollando habilidades en tecnologías como Java, HTML, CSS, y más 📚, y estoy comprometido en mejorar cada día para alcanzar mis metas profesionales 🚀.
 
 ## 👤 Sobre Mí
 
