@@ -1,4 +1,4 @@
-<picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="header-mobile-dark.svg"><source media="(max-width: 600px)" srcset="header-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="header-dark.svg"><img src="header-light.svg" width="100%" alt="Elkin López. From ideas to working software. Web and mobile, backend and data, applied AI. Software Engineering student at UTA."></picture>
+<picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="header-mobile-dark.svg"><source media="(max-width: 600px)" srcset="header-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="header-dark.svg"><img src="header-light.svg" width="100%" alt="Elkin López. Software Engineering student. Interfaces, systems and applied AI. Academic and collaborative work."></picture>
 
 <p align="center">
 <a href="#about"><picture><source media="(prefers-color-scheme: dark)" srcset="nav-perfil-dark.svg"><img src="nav-perfil-light.svg" height="36" alt="About"></picture></a>
@@ -9,27 +9,27 @@
 
 <a name="about"></a>
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="chapter-01-dark.svg"><img src="chapter-01-light.svg" height="25" alt="01"></picture> About me
+## <picture><source media="(prefers-color-scheme: dark)" srcset="chapter-01-dark.svg"><img src="chapter-01-light.svg" height="25" alt="01"></picture> Profile
 
 I'm **Elkin Joao López Garcés**, an **8th-semester Software Engineering student at Universidad Técnica de Ambato**, approaching graduation.
 
-My projects span **web and mobile interfaces, backend services, data systems and applied AI**. I enjoy connecting the parts of an application: how it looks, how it behaves and how its data flows. Below is a selection of academic and collaborative work, with a clear view of my contribution.
+I work across **web interfaces, backend services and applied AI**, connecting how applications look, behave and handle data. The projects below are academic and collaborative work, with my contribution identified for each.
 
 <a name="work"></a>
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="chapter-02-dark.svg"><img src="chapter-02-light.svg" height="25" alt="02"></picture> Selected work
+## <picture><source media="(prefers-color-scheme: dark)" srcset="chapter-02-dark.svg"><img src="chapter-02-light.svg" height="25" alt="02"></picture> Selected projects
 
 
 <a href="https://github.com/Elkinnn/school-project">
 <picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="project-stayschool-mobile-dark.svg"><source media="(max-width: 600px)" srcset="project-stayschool-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="project-stayschool-dark.svg"><img src="project-stayschool-light.svg" width="100%" alt="StaySchool. A student tracking and early-warning application for rural education settings, with teacher and guardian views, observations and notifications."></picture>
 </a>
 
-A student tracking and early-warning application for rural education settings, with teacher and guardian views, observations and notifications.
-
 **My contribution:** Helped implement the foundation of the student tracking and alert system.
 
 <details>
-<summary>Technical notes &amp; contribution history</summary>
+<summary>Project overview &amp; contribution history</summary>
+
+A student tracking and early-warning application for rural education settings, with teacher and guardian views, observations and notifications.
 
 Built around Next.js, TypeScript and MongoDB, with authentication and separate views for teachers and guardians.
 
@@ -41,12 +41,12 @@ Built around Next.js, TypeScript and MongoDB, with authentication and separate v
 <picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="project-fotorradar-mobile-dark.svg"><source media="(max-width: 600px)" srcset="project-fotorradar-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="project-fotorradar-dark.svg"><img src="project-fotorradar-light.svg" width="100%" alt="Ecuador AI Traffic Monitor. An academic computer vision system for Ecuadorian license plates and vehicle speed estimation, combining detection, character recognition and fuzzy inference."></picture>
 </a>
 
-An academic computer vision system for Ecuadorian license plates and vehicle speed estimation, combining detection, character recognition and fuzzy inference.
-
 **My contribution:** Contributed implementation updates and refactoring to the project.
 
 <details>
-<summary>Technical notes &amp; contribution history</summary>
+<summary>Project overview &amp; contribution history</summary>
+
+An academic computer vision system for Ecuadorian license plates and vehicle speed estimation, combining detection, character recognition and fuzzy inference.
 
 The pipeline combines YOLO detection, OpenCV segmentation, a project-specific character-recognition CNN and Mamdani fuzzy inference, with a Streamlit monitoring interface.
 
@@ -58,12 +58,12 @@ The pipeline combines YOLO detection, OpenCV segmentation, a project-specific ch
 <picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="project-hospital-mobile-dark.svg"><source media="(max-width: 600px)" srcset="project-hospital-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="project-hospital-dark.svg"><img src="project-hospital-light.svg" width="100%" alt="Distributed Hospital Platform. An academic hospital management application with a React frontend, an API gateway, and separate administration and physician services."></picture>
 </a>
 
-An academic hospital management application with a React frontend, an API gateway, and separate administration and physician services.
-
 **My contribution:** Worked on circuit-breaker notifications, PDF reports and Azure deployment updates.
 
 <details>
-<summary>Technical notes &amp; contribution history</summary>
+<summary>Project overview &amp; contribution history</summary>
+
+An academic hospital management application with a React frontend, an API gateway, and separate administration and physician services.
 
 The current application entry points use Node.js and Express, with MySQL persistence and Docker-based service composition.
 
@@ -75,12 +75,12 @@ The current application entry points use Node.js and Express, with MySQL persist
 <picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="project-odoo-mobile-dark.svg"><source media="(max-width: 600px)" srcset="project-odoo-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="project-odoo-dark.svg"><img src="project-odoo-light.svg" width="100%" alt="Virtual Academy · Odoo-DAS. A collaborative Odoo ecosystem connecting online learning, business processes and custom modules."></picture>
 </a>
 
-A collaborative Odoo ecosystem connecting online learning, business processes and custom modules.
-
 **My contribution:** Contributed to user preference forms and email marketing modules.
 
 <details>
-<summary>Technical notes &amp; contribution history</summary>
+<summary>Project overview &amp; contribution history</summary>
+
+A collaborative Odoo ecosystem connecting online learning, business processes and custom modules.
 
 The academic project uses Python, Odoo 18, PostgreSQL and Docker, with custom modules for learning and business workflows.
 
@@ -92,12 +92,12 @@ The academic project uses Python, Odoo 18, PostgreSQL and Docker, with custom mo
 <picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="project-novacore-mobile-dark.svg"><source media="(max-width: 600px)" srcset="project-novacore-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="project-novacore-dark.svg"><img src="project-novacore-light.svg" width="100%" alt="NovaCore. A web platform with a blog, services, projects and publishing tools, using Angular alongside a TypeScript and Express backend with Prisma and PostgreSQL."></picture>
 </a>
 
-A web platform with a blog, services, projects and publishing tools, using Angular alongside a TypeScript and Express backend with Prisma and PostgreSQL.
-
 **My contribution:** Improved blog content layouts and light-theme styling.
 
 <details>
-<summary>Technical notes &amp; contribution history</summary>
+<summary>Project overview &amp; contribution history</summary>
+
+A web platform with a blog, services, projects and publishing tools, using Angular alongside a TypeScript and Express backend with Prisma and PostgreSQL.
 
 The repository combines frontend content views and publishing features with backend routes and a Prisma data model for blog posts.
 
@@ -120,7 +120,7 @@ The repository combines frontend content views and publishing features with back
 
 <a name="toolbox"></a>
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="chapter-03-dark.svg"><img src="chapter-03-light.svg" height="25" alt="03"></picture> Inside my toolbox
+## <picture><source media="(prefers-color-scheme: dark)" srcset="chapter-03-dark.svg"><img src="chapter-03-light.svg" height="25" alt="03"></picture> Technical toolkit
 
 <picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="studio-mobile-dark.svg"><source media="(max-width: 600px)" srcset="studio-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="studio-dark.svg"><img src="studio-light.svg" width="100%" alt="Interfaces with Angular, React and Next.js; systems and data with .NET, Node.js and SQL or NoSQL; applied AI with Python, OpenCV and CNN."></picture>
 
@@ -204,4 +204,4 @@ ASP.NET / .NET Core, SQL and data modeling, SSAS / data warehousing, WebRTC, Soc
 
 Interested in a project, a collaboration or the decisions behind the code? Reach me at **[elkinjoao2004@hotmail.com](mailto:elkinjoao2004@hotmail.com)**.
 
-<a href="mailto:elkinjoao2004@hotmail.com"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="footer-mobile-dark.svg"><source media="(max-width: 600px)" srcset="footer-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="footer-dark.svg"><img src="footer-light.svg" width="100%" alt="Let's build something meaningful. Good ideas start with a conversation."></picture></a>
+<a href="mailto:elkinjoao2004@hotmail.com"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="footer-mobile-dark.svg"><source media="(max-width: 600px)" srcset="footer-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="footer-dark.svg"><img src="footer-light.svg" width="100%" alt="Let's talk about what comes next. Projects, ideas and collaboration."></picture></a>
