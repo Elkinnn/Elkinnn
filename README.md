@@ -9,7 +9,7 @@
 
 <a name="about"></a>
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="chapter-01-dark.svg"><img src="chapter-01-light.svg" height="25" alt="01"></picture> Profile
+## <picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="chapter-01-mobile-dark.svg"><source media="(max-width: 600px)" srcset="chapter-01-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="chapter-01-dark.svg"><img src="chapter-01-light.svg" width="100%" alt="Profile"></picture>
 
 I'm **Elkin Joao López Garcés**, an **8th-semester Software Engineering student at Universidad Técnica de Ambato**, approaching graduation.
 
@@ -17,7 +17,7 @@ I work across **web interfaces, backend services and applied AI**, connecting ho
 
 <a name="work"></a>
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="chapter-02-dark.svg"><img src="chapter-02-light.svg" height="25" alt="02"></picture> Selected projects
+## <picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="chapter-02-mobile-dark.svg"><source media="(max-width: 600px)" srcset="chapter-02-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="chapter-02-dark.svg"><img src="chapter-02-light.svg" width="100%" alt="Selected work"></picture>
 
 
 <a href="https://github.com/Elkinnn/school-project">
@@ -120,74 +120,26 @@ The repository combines frontend content views and publishing features with back
 
 <a name="toolbox"></a>
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="chapter-03-dark.svg"><img src="chapter-03-light.svg" height="25" alt="03"></picture> Technical toolkit
+## <picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="chapter-03-mobile-dark.svg"><source media="(max-width: 600px)" srcset="chapter-03-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="chapter-03-dark.svg"><img src="chapter-03-light.svg" width="100%" alt="Technical toolkit"></picture>
 
 <picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="studio-mobile-dark.svg"><source media="(max-width: 600px)" srcset="studio-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="studio-dark.svg"><img src="studio-light.svg" width="100%" alt="Interfaces with Angular, React and Next.js; systems and data with .NET, Node.js and SQL or NoSQL; applied AI with Python, OpenCV and CNN."></picture>
 
 Tools I've used across projects and coursework:
 
-#### Frontend & mobile
+<picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="toolkit-01-mobile-dark.svg"><source media="(max-width: 600px)" srcset="toolkit-01-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="toolkit-01-dark.svg"><img src="toolkit-01-light.svg" width="100%" alt="Frontend &amp; mobile: JavaScript, TypeScript, Angular, React, Next.js, HTML, CSS, Tailwind, Ionic"></picture>
 
-<p>
-<picture><source media="(prefers-color-scheme: dark)" srcset="tech-js-dark.svg"><img src="tech-js-light.svg" height="50" alt="JavaScript"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="tech-ts-dark.svg"><img src="tech-ts-light.svg" height="50" alt="TypeScript"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="tech-angular-dark.svg"><img src="tech-angular-light.svg" height="50" alt="Angular"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="tech-react-dark.svg"><img src="tech-react-light.svg" height="50" alt="React"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="tech-next-dark.svg"><img src="tech-next-light.svg" height="50" alt="Next.js"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="tech-html-dark.svg"><img src="tech-html-light.svg" height="50" alt="HTML"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="tech-css-dark.svg"><img src="tech-css-light.svg" height="50" alt="CSS"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="tech-tailwind-dark.svg"><img src="tech-tailwind-light.svg" height="50" alt="Tailwind"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="tech-ionic-dark.svg"><img src="tech-ionic-light.svg" height="50" alt="Ionic"></picture>
-</p>
 
-#### Backend & platforms
+<picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="toolkit-02-mobile-dark.svg"><source media="(max-width: 600px)" srcset="toolkit-02-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="toolkit-02-dark.svg"><img src="toolkit-02-light.svg" width="100%" alt="Backend &amp; platforms: Node.js, Express, NestJS, .NET, C#, Java, Spring Boot, PHP, Laravel, Odoo"></picture>
 
-<p>
-<picture><source media="(prefers-color-scheme: dark)" srcset="tech-node-dark.svg"><img src="tech-node-light.svg" height="50" alt="Node.js"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="tech-express-dark.svg"><img src="tech-express-light.svg" height="50" alt="Express"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="tech-nest-dark.svg"><img src="tech-nest-light.svg" height="50" alt="NestJS"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="tech-dotnet-dark.svg"><img src="tech-dotnet-light.svg" height="50" alt=".NET"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="tech-csharp-dark.svg"><img src="tech-csharp-light.svg" height="50" alt="C#"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="tech-java-dark.svg"><img src="tech-java-light.svg" height="50" alt="Java"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="tech-spring-dark.svg"><img src="tech-spring-light.svg" height="50" alt="Spring Boot"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="tech-php-dark.svg"><img src="tech-php-light.svg" height="50" alt="PHP"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="tech-laravel-dark.svg"><img src="tech-laravel-light.svg" height="50" alt="Laravel"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="tech-odoo-dark.svg"><img src="tech-odoo-light.svg" height="50" alt="Odoo"></picture>
-</p>
 
-#### Databases & persistence
+<picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="toolkit-03-mobile-dark.svg"><source media="(max-width: 600px)" srcset="toolkit-03-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="toolkit-03-dark.svg"><img src="toolkit-03-light.svg" width="100%" alt="Databases &amp; persistence: SQL Server, PostgreSQL, MySQL, MongoDB, Firebase, Prisma"></picture>
 
-<p>
-<picture><source media="(prefers-color-scheme: dark)" srcset="tech-sqlserver-dark.svg"><img src="tech-sqlserver-light.svg" height="50" alt="SQL Server"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="tech-postgres-dark.svg"><img src="tech-postgres-light.svg" height="50" alt="PostgreSQL"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="tech-mysql-dark.svg"><img src="tech-mysql-light.svg" height="50" alt="MySQL"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="tech-mongodb-dark.svg"><img src="tech-mongodb-light.svg" height="50" alt="MongoDB"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="tech-firebase-dark.svg"><img src="tech-firebase-light.svg" height="50" alt="Firebase"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="tech-prisma-dark.svg"><img src="tech-prisma-light.svg" height="50" alt="Prisma"></picture>
-</p>
 
-#### Applied AI
-
-<p>
-<picture><source media="(prefers-color-scheme: dark)" srcset="tech-python-dark.svg"><img src="tech-python-light.svg" height="50" alt="Python"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="tech-opencv-dark.svg"><img src="tech-opencv-light.svg" height="50" alt="OpenCV"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="tech-streamlit-dark.svg"><img src="tech-streamlit-light.svg" height="50" alt="Streamlit"></picture>
-</p>
+<picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="toolkit-04-mobile-dark.svg"><source media="(max-width: 600px)" srcset="toolkit-04-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="toolkit-04-dark.svg"><img src="toolkit-04-light.svg" width="100%" alt="Applied AI: Python, OpenCV, Streamlit"></picture>
 
 Computer vision, neural networks, fuzzy logic and genetic algorithms.
 
-#### Quality & delivery
-
-<p>
-<picture><source media="(prefers-color-scheme: dark)" srcset="tech-docker-dark.svg"><img src="tech-docker-light.svg" height="50" alt="Docker"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="tech-git-dark.svg"><img src="tech-git-light.svg" height="50" alt="Git"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="tech-jenkins-dark.svg"><img src="tech-jenkins-light.svg" height="50" alt="Jenkins"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="tech-sonar-dark.svg"><img src="tech-sonar-light.svg" height="50" alt="SonarQube"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="tech-stryker-dark.svg"><img src="tech-stryker-light.svg" height="50" alt="Stryker"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="tech-junit-dark.svg"><img src="tech-junit-light.svg" height="50" alt="JUnit"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="tech-mocha-dark.svg"><img src="tech-mocha-light.svg" height="50" alt="Mocha"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="tech-chai-dark.svg"><img src="tech-chai-light.svg" height="50" alt="Chai"></picture>
-</p>
+<picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="toolkit-05-mobile-dark.svg"><source media="(max-width: 600px)" srcset="toolkit-05-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="toolkit-05-dark.svg"><img src="toolkit-05-light.svg" width="100%" alt="Quality &amp; delivery: Docker, Git, Jenkins, SonarQube, Stryker, JUnit, Mocha, Chai"></picture>
 
 Also used: Jira, Azure DevOps, ESLint and code review workflows.
 
@@ -200,8 +152,8 @@ ASP.NET / .NET Core, SQL and data modeling, SSAS / data warehousing, WebRTC, Soc
 
 <a name="contact"></a>
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="chapter-04-dark.svg"><img src="chapter-04-light.svg" height="25" alt="04"></picture> Get in touch
+## <picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="chapter-04-mobile-dark.svg"><source media="(max-width: 600px)" srcset="chapter-04-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="chapter-04-dark.svg"><img src="chapter-04-light.svg" width="100%" alt="Get in touch"></picture>
 
 Interested in a project, a collaboration or the decisions behind the code? Reach me at **[elkinjoao2004@hotmail.com](mailto:elkinjoao2004@hotmail.com)**.
 
-<a href="mailto:elkinjoao2004@hotmail.com"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="footer-mobile-dark.svg"><source media="(max-width: 600px)" srcset="footer-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="footer-dark.svg"><img src="footer-light.svg" width="100%" alt="Let's talk about what comes next. Projects, ideas and collaboration."></picture></a>
+<a href="mailto:elkinjoao2004@hotmail.com"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="footer-mobile-dark.svg"><source media="(max-width: 600px)" srcset="footer-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="footer-dark.svg"><img src="footer-light.svg" width="100%" alt="Let's build what comes next. Projects, ideas and collaboration."></picture></a>
