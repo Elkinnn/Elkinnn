@@ -1,4 +1,6 @@
+<a href="https://elkinnn.github.io/" title="Visit my portfolio">
 <picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="header-mobile-dark.svg"><source media="(max-width: 600px)" srcset="header-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="header-dark.svg"><img src="header-light.svg" width="100%" alt="Elkin López. Software Engineering student. Interfaces, systems and applied AI. Academic and collaborative work."></picture>
+</a>
 
 <p align="center">
 <a href="#about"><picture><source media="(prefers-color-scheme: dark)" srcset="nav-perfil-dark.svg"><img src="nav-perfil-light.svg" height="36" alt="About"></picture></a>
